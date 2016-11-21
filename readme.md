@@ -1,0 +1,1 @@
+An implementation of the following paper: http://stanford.edu/~jlmcc/papers/McCRogers03.pdf, written in MATLAB from scratch.
